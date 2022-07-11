@@ -1,0 +1,7 @@
+pip3 install torch torchvision torchaudio
+pip install easyocr
+pip install matplotlib
+pip install opencv-python==4.5.4.60
+
+
+https://www.jaided.ai/easyocr/
